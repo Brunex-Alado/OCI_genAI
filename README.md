@@ -43,8 +43,9 @@ O repositório contém exemplos práticos de:
 
 ## 📊 Fluxo de Interação com o Assistente
 
-| ![image](https://raw.githubusercontent.com/Brunex-Alado/ link do oci_genai_fluxo.png) |
+| ![image](https://raw.githubusercontent.com/Brunex-Alado/OCI_genAI/refs/heads/main/img/oci_genai_fluxo.png) |
 
 <br/>
 
-| ![image](https://raw.githubusercontent.com/Brunex-Alado/ link do langchain_fluxo.png) |
+
+| ![image](https://raw.githubusercontent.com/Brunex-Alado/OCI_genAI/refs/heads/main/img/langchain_fluxo.png) |
