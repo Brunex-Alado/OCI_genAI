@@ -49,3 +49,20 @@ O repositório contém exemplos práticos de:
 
 
 | ![image](https://raw.githubusercontent.com/Brunex-Alado/OCI_genAI/refs/heads/main/img/langchain_fluxo.png) |
+
+<br/>
+
+## ⚡ Como Executar o Projeto
+
+Antes de rodar o projeto, você precisará garantir que seu **ambiente OCI está configurado corretamente**.  
+No código (versão 3), o cliente é inicializado a partir de um arquivo de configuração (`~/.oci/config` ou caminho definido em `CONFIG_PATH`).  
+
+Esse arquivo deve conter os seguintes campos mínimos dentro de um perfil (exemplo: `DEFAULT`):
+
+```ini
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa...
+fingerprint=aa:bb:cc:dd:ee:ff:11:22:33:44:55:66:77:88:99:00
+key_file=C:\Users\seu-usuario\.oci\oci_api_key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaa...
+region=sa-saopaulo-1
